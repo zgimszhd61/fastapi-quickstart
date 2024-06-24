@@ -139,3 +139,6 @@ uvicorn main:app --reload
  - FastAPI可以通过ORM与关系数据库进行交互,支持CRUD等常见数据库操作。
 
  - 总的来说,FastAPI是一个全能的Python Web框架,可以应用于构建各种API服务、数据处理系统、微服务等多种场景。
+
+## 参考链接
+ - https://www.perplexity.ai/search/fastapi-eCkQt20oR2WpsUQDHVX7Pw
